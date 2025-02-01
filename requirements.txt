@@ -2,7 +2,7 @@ numpy
 scipy
 soundfile
 librosa==0.9.2
-torch
-torchaudio
+torch==1.12.1+cpu
+torchaudio==0.12.1+cpu
 fastapi
 uvicorn
